@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\DESIGN PATTERN\GUI_ELECTRIC\DTO_ELECTRIC\bin\Debug\DTO_ELECTRIC.exe.config
+C:\Users\Admin\Desktop\DESIGN PATTERN\GUI_ELECTRIC\DTO_ELECTRIC\bin\Debug\DTO_ELECTRIC.exe
+C:\Users\Admin\Desktop\DESIGN PATTERN\GUI_ELECTRIC\DTO_ELECTRIC\bin\Debug\DTO_ELECTRIC.pdb
+C:\Users\Admin\Desktop\DESIGN PATTERN\GUI_ELECTRIC\DTO_ELECTRIC\obj\Debug\DTO_ELECTRIC.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\DESIGN PATTERN\GUI_ELECTRIC\DTO_ELECTRIC\obj\Debug\DTO_ELECTRIC.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DESIGN PATTERN\GUI_ELECTRIC\DTO_ELECTRIC\obj\Debug\DTO_ELECTRIC.exe
+C:\Users\Admin\Desktop\DESIGN PATTERN\GUI_ELECTRIC\DTO_ELECTRIC\obj\Debug\DTO_ELECTRIC.pdb
+C:\Users\Admin\Desktop\DESIGN PATTERN\source\GUI_ELECTRIC\DTO_ELECTRIC\bin\Debug\DTO_ELECTRIC.exe.config
+C:\Users\Admin\Desktop\DESIGN PATTERN\source\GUI_ELECTRIC\DTO_ELECTRIC\bin\Debug\DTO_ELECTRIC.exe
+C:\Users\Admin\Desktop\DESIGN PATTERN\source\GUI_ELECTRIC\DTO_ELECTRIC\bin\Debug\DTO_ELECTRIC.pdb
+C:\Users\Admin\Desktop\DESIGN PATTERN\source\GUI_ELECTRIC\DTO_ELECTRIC\obj\Debug\DTO_ELECTRIC.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\DESIGN PATTERN\source\GUI_ELECTRIC\DTO_ELECTRIC\obj\Debug\DTO_ELECTRIC.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DESIGN PATTERN\source\GUI_ELECTRIC\DTO_ELECTRIC\obj\Debug\DTO_ELECTRIC.exe
+C:\Users\Admin\Desktop\DESIGN PATTERN\source\GUI_ELECTRIC\DTO_ELECTRIC\obj\Debug\DTO_ELECTRIC.pdb
